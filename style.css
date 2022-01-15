@@ -392,6 +392,9 @@ footer{
     .fa-star{
         font-size: 20px;
     }
+    .box-info span{
+        font-size: 20px;
+    }
     .box-sub-title{
         font-size: 30px;
     }
